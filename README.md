@@ -42,5 +42,5 @@ A minimal, interactive e-commerce page with:
 
 📬 Contact
 GitHub:https://github.com/Durgashree33
-Emain:durgashreepoojary@gmail.com
+Email:durgashreepoojary@gmail.com
 
